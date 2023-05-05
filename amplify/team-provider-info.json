@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-expresslex-dev-44053-authRole",
+      "UnauthRoleArn": "arn:aws:iam::150196348840:role/amplify-expresslex-dev-44053-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::150196348840:role/amplify-expresslex-dev-44053-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-expresslex-dev-44053-deployment",
+      "UnauthRoleName": "amplify-expresslex-dev-44053-unauthRole",
+      "StackName": "amplify-expresslex-dev-44053",
+      "StackId": "arn:aws:cloudformation:us-east-1:150196348840:stack/amplify-expresslex-dev-44053/eed66ac0-ead0-11ed-a940-0a84830639f1",
+      "AmplifyAppId": "d1sl73hqw3xz2c"
+    },
+    "categories": {
+      "function": {
+        "expresslex2aae6c4c": {
+          "env": "1",
+          "secretsPathAmplifyAppId": "d1sl73hqw3xz2c"
+        }
+      },
+      "auth": {
+        "expresslex": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1sl73hqw3xz2c",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

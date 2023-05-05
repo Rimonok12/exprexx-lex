@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "paths": {
+    "/my-service": {
+      "name": "/my-service",
+      "lambdaFunction": "expresslex2aae6c4c",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "read"
+        ]
+      }
+    }
+  }
+}
